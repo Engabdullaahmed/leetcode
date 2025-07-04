@@ -20,20 +20,17 @@ public:
         height_ = min(height[r],height[l]);
         width = r-l;
         ans= max(ans,width*height_);
-        if(height[l]<height[r])
-        {
-            l++;     
-        }
-        else if(height[l]>height[r])
+        // if(height[l]<height[r])
+        // {
+        //     l++;     
+        // }
+        if(height[l]>height[r])
         {
             r--;
         }
         else{
-           
-                l++;
-          
+            l++;
         }
-
        }
         }
        return ans ;
