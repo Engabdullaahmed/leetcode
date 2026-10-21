@@ -23,25 +23,25 @@ public:
     }
     // remove any additon cycle ;
     k = k % len ;
-    ListNode* cur = head ;
-    ListNode* tail;
-    ListNode* prev;
-    while(k>0)
+    if(k==0)
     {
-        while(cur->next)
-        {
-            prev = cur ;
-            cur = cur->next ;
-        }
-        tail = cur;
-        
-        tail->next = head ;
-        head = tail;
-        cur = head ;
-        prev->next = nullptr ;
-        k--;
+        return head ;
     }
-    return head ;
-    
+   
+    ListNode* tail = head ;
+    while(tail->next)
+    {
+        tail = tail->next;
+    }
+    tail->next = head;
+    // 4 5 1 2 3 4 5 cicyle 
+    ListNode* new_tail = head;
+    for(int i = 1 ;i<len - k;i++)
+    {
+        new_tail= new_tail->next;
+    }
+    ListNode* ans  = new_tail->next ;
+    new_tail->next = nullptr ;
+    return ans;
     }
 };
