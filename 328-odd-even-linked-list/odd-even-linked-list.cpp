@@ -14,55 +14,29 @@ class Solution
 public:
         ListNode *oddEvenList(ListNode *head)
         {
-             if (!head || !head->next)
-                return head;
-                ListNode *tail = nullptr;
-                ListNode *cur = head;
-                ListNode *prev = nullptr;
-                int len2 = 0;
+            if(!head || !head->next || !head->next->next)
+            {
+                return head ;
+            }
+            ListNode* even_connect = head->next ;
+            ListNode* odd_connect = head;
+            ListNode* even_start = head->next;
+            while(odd_connect->next and even_connect->next )
+            {
+                // all odd
+                odd_connect->next = even_connect->next;
+                // all even 
+                even_connect->next = odd_connect->next->next;
+                odd_connect = odd_connect->next ;
+                even_connect = even_connect->next;
+            }
+            // last odd;
+            // 1 3 5 
 
-                while (cur->next)
-                {
-                        len2++;
+            // 2 4 
+            odd_connect->next = even_start ;
 
-                        cur = cur->next;
-                }
-                tail = cur;
-                len2++;
-                // now i have got tail ok
-                cur = head;
-                int len = 0;
-                int even = len2 / 2;
+            return head ; 
 
-                while (even > 0)
-                {
-                        len++;
-                        if (len % 2 == 0)
-                        {
-                              if (cur == tail)
-                                  break;
-
-                                // that before and after
-                                // contain cur 
-                                ListNode *temp = cur;
-                                // connect before with after 
-                                prev->next = temp->next;
-                                // handle tail 
-                                tail->next = cur;
-                                tail = cur;
-                                tail->next = nullptr;
-                                // move 
-                                cur = prev->next;
-                                even--;
-                        }
-                        else
-                        {
-                                prev = cur;
-                                cur = cur->next;
-                        }
-                }
-    
-                                
-                return head;
         }
 };
