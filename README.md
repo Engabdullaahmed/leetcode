@@ -70,4 +70,12 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Engabdullaahmed/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Engabdullaahmed/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Engabdullaahmed/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
