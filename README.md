@@ -82,8 +82,14 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0002-add-two-numbers](https://github.com/Engabdullaahmed/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Engabdullaahmed/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Engabdullaahmed/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Engabdullaahmed/leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Engabdullaahmed/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0231-power-of-two](https://github.com/Engabdullaahmed/leetcode/tree/main/0231-power-of-two/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Engabdullaahmed/leetcode/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
