@@ -96,5 +96,10 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Engabdullaahmed/leetcode/tree/main/0046-permutations/) | Medium |
 | [0401-binary-watch](https://github.com/Engabdullaahmed/leetcode/tree/main/0401-binary-watch/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/Engabdullaahmed/leetcode/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
