@@ -76,6 +76,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0002-add-two-numbers](https://github.com/Engabdullaahmed/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Engabdullaahmed/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Engabdullaahmed/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0432-all-oone-data-structure](https://github.com/Engabdullaahmed/leetcode/tree/main/0432-all-oone-data-structure/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +103,16 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Engabdullaahmed/leetcode/tree/main/0046-permutations/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0432-all-oone-data-structure](https://github.com/Engabdullaahmed/leetcode/tree/main/0432-all-oone-data-structure/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0432-all-oone-data-structure](https://github.com/Engabdullaahmed/leetcode/tree/main/0432-all-oone-data-structure/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0432-all-oone-data-structure](https://github.com/Engabdullaahmed/leetcode/tree/main/0432-all-oone-data-structure/) | Hard |
 <!---LeetCode Topics End-->
