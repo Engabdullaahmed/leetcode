@@ -109,6 +109,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0046-permutations](https://github.com/Engabdullaahmed/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Engabdullaahmed/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +126,8 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0047-permutations-ii/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/Engabdullaahmed/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
