@@ -54,6 +54,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Engabdullaahmed/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Engabdullaahmed/leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Engabdullaahmed/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +139,8 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/Engabdullaahmed/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Engabdullaahmed/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
