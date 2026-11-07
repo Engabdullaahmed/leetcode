@@ -104,6 +104,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0047-permutations-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/Engabdullaahmed/leetcode/tree/main/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Engabdullaahmed/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0401-binary-watch](https://github.com/Engabdullaahmed/leetcode/tree/main/0401-binary-watch/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0046-permutations](https://github.com/Engabdullaahmed/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Engabdullaahmed/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Engabdullaahmed/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
