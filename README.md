@@ -98,6 +98,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Engabdullaahmed/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Engabdullaahmed/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/Engabdullaahmed/leetcode/tree/main/0077-combinations/) | Medium |
@@ -106,6 +107,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Engabdullaahmed/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Engabdullaahmed/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0090-subsets-ii/) | Medium |
