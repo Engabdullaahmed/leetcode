@@ -24,19 +24,24 @@ public:
             if(sum > target){
                 return ;
             }
+
+            if(index == ca.size())
+            {
+                return ;
+            }
            
-        for(int i = index ;i<ca.size();i++)
-        {
-            sum += ca[i];
-            cur.push_back(ca[i]);
+        // for(int i = index ;i<ca.size();i++)
+        // {
+            sum += ca[index];
+            cur.push_back(ca[index]);
             // take 
-            recur(ca,target,i,cur,sum);
+            recur(ca,target,index,cur,sum);
             cur.pop_back();
-            sum -= ca[i];
+            sum -= ca[index];
             // skip
-            // recur(ca,target,i + 1,cur,sum);
+            recur(ca,target,index + 1,cur,sum);
             
-        }
+        // }
 
     }
 
