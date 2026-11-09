@@ -52,6 +52,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Engabdullaahmed/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Engabdullaahmed/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Engabdullaahmed/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Engabdullaahmed/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -101,6 +102,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Engabdullaahmed/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/Engabdullaahmed/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Engabdullaahmed/leetcode/tree/main/0046-permutations/) | Medium |
@@ -123,6 +125,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Engabdullaahmed/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/Engabdullaahmed/leetcode/tree/main/0432-all-oone-data-structure/) | Hard |
 ## Design
 | Problem Name | Difficulty |
