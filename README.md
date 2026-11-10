@@ -81,6 +81,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0025-reverse-nodes-in-k-group](https://github.com/Engabdullaahmed/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Engabdullaahmed/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0432-all-oone-data-structure](https://github.com/Engabdullaahmed/leetcode/tree/main/0432-all-oone-data-structure/) | Hard |
+| [0641-design-circular-deque](https://github.com/Engabdullaahmed/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0047-permutations-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Engabdullaahmed/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0641-design-circular-deque](https://github.com/Engabdullaahmed/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [0735-asteroid-collision](https://github.com/Engabdullaahmed/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Engabdullaahmed/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
@@ -132,6 +134,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/Engabdullaahmed/leetcode/tree/main/0432-all-oone-data-structure/) | Hard |
+| [0641-design-circular-deque](https://github.com/Engabdullaahmed/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +161,8 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/Engabdullaahmed/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0641-design-circular-deque](https://github.com/Engabdullaahmed/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 <!---LeetCode Topics End-->
