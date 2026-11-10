@@ -55,6 +55,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Engabdullaahmed/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Engabdullaahmed/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Engabdullaahmed/leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Engabdullaahmed/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Engabdullaahmed/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -147,9 +148,14 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Engabdullaahmed/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Engabdullaahmed/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Engabdullaahmed/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Engabdullaahmed/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/Engabdullaahmed/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
