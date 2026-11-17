@@ -103,6 +103,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0090-subsets-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/Engabdullaahmed/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0401-binary-watch](https://github.com/Engabdullaahmed/leetcode/tree/main/0401-binary-watch/) | Easy |
+| [0473-matchsticks-to-square](https://github.com/Engabdullaahmed/leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0131-palindrome-partitioning](https://github.com/Engabdullaahmed/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Engabdullaahmed/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0401-binary-watch](https://github.com/Engabdullaahmed/leetcode/tree/main/0401-binary-watch/) | Easy |
+| [0473-matchsticks-to-square](https://github.com/Engabdullaahmed/leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0047-permutations-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Engabdullaahmed/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0473-matchsticks-to-square](https://github.com/Engabdullaahmed/leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0641-design-circular-deque](https://github.com/Engabdullaahmed/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [0735-asteroid-collision](https://github.com/Engabdullaahmed/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Engabdullaahmed/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -178,4 +181,9 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Engabdullaahmed/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Engabdullaahmed/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0473-matchsticks-to-square](https://github.com/Engabdullaahmed/leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0473-matchsticks-to-square](https://github.com/Engabdullaahmed/leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 <!---LeetCode Topics End-->
