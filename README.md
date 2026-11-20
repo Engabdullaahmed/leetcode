@@ -160,6 +160,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Engabdullaahmed/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0735-asteroid-collision](https://github.com/Engabdullaahmed/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Engabdullaahmed/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
@@ -193,14 +194,17 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
