@@ -53,6 +53,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Engabdullaahmed/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/Engabdullaahmed/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Engabdullaahmed/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Engabdullaahmed/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Engabdullaahmed/leetcode/tree/main/0058-length-of-last-word/) | Easy |
@@ -158,6 +159,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Engabdullaahmed/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -172,6 +174,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Engabdullaahmed/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Engabdullaahmed/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Engabdullaahmed/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 ## Queue
