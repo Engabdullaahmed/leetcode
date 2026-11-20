@@ -13,7 +13,7 @@ class Solution {
 public:
     int maxDepth(TreeNode* root) {
         
-        int m = recur(root,0);
+        int m = recur(root,1);
         return m ;
     }
 
