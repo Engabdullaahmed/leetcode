@@ -58,6 +58,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0022-generate-parentheses](https://github.com/Engabdullaahmed/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Engabdullaahmed/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Engabdullaahmed/leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0093-restore-ip-addresses](https://github.com/Engabdullaahmed/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Engabdullaahmed/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Engabdullaahmed/leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Engabdullaahmed/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -120,6 +121,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0047-permutations-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/Engabdullaahmed/leetcode/tree/main/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/Engabdullaahmed/leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/Engabdullaahmed/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Engabdullaahmed/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Engabdullaahmed/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0401-binary-watch](https://github.com/Engabdullaahmed/leetcode/tree/main/0401-binary-watch/) | Easy |
