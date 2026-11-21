@@ -131,6 +131,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0216-combination-sum-iii](https://github.com/Engabdullaahmed/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Engabdullaahmed/leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0641-design-circular-deque](https://github.com/Engabdullaahmed/leetcode/tree/main/0641-design-circular-deque/) | Medium |
+| [0682-baseball-game](https://github.com/Engabdullaahmed/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Engabdullaahmed/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Engabdullaahmed/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
@@ -164,12 +165,14 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0144-binary-tree-preorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Engabdullaahmed/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0682-baseball-game](https://github.com/Engabdullaahmed/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Engabdullaahmed/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Engabdullaahmed/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Engabdullaahmed/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/Engabdullaahmed/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Engabdullaahmed/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
