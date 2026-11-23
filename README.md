@@ -212,6 +212,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0111-minimum-depth-of-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +221,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0111-minimum-depth-of-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,9 +230,11 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0111-minimum-depth-of-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
