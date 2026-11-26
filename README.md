@@ -209,6 +209,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -229,6 +230,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -238,6 +240,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Engabdullaahmed/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
