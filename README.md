@@ -102,6 +102,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Engabdullaahmed/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Engabdullaahmed/leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Engabdullaahmed/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/Engabdullaahmed/leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
