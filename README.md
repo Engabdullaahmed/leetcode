@@ -110,6 +110,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0231-power-of-two](https://github.com/Engabdullaahmed/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0401-binary-watch](https://github.com/Engabdullaahmed/leetcode/tree/main/0401-binary-watch/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/Engabdullaahmed/leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Engabdullaahmed/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Engabdullaahmed/leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -127,6 +128,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0216-combination-sum-iii](https://github.com/Engabdullaahmed/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0401-binary-watch](https://github.com/Engabdullaahmed/leetcode/tree/main/0401-binary-watch/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/Engabdullaahmed/leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Engabdullaahmed/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Engabdullaahmed/leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -140,6 +142,7 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0473-matchsticks-to-square](https://github.com/Engabdullaahmed/leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0641-design-circular-deque](https://github.com/Engabdullaahmed/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [0682-baseball-game](https://github.com/Engabdullaahmed/leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Engabdullaahmed/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0735-asteroid-collision](https://github.com/Engabdullaahmed/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Engabdullaahmed/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
@@ -201,10 +204,12 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | [0022-generate-parentheses](https://github.com/Engabdullaahmed/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Engabdullaahmed/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Engabdullaahmed/leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Engabdullaahmed/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0473-matchsticks-to-square](https://github.com/Engabdullaahmed/leetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Engabdullaahmed/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,4 +253,8 @@ My goal is to consistently solve problems, improve my problem-solving skills, an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Engabdullaahmed/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Engabdullaahmed/leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 <!---LeetCode Topics End-->
